@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanyinemt&show_icons=true&theme=tokyonight)
+
+## 🌠[Coding Time](https://wakatime.com/@Younger)
+> the projects I'm working on
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=lanyinemt&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanyinemt&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
