@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/lanyinemt/lanyinemt/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
